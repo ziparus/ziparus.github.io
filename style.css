@@ -7,6 +7,6 @@ h1 {
 }
 
 h1:hover {
-	border-bottom: black solid 3px;
+	border-bottom: black solid 40px;
 	transition: 0.05s;
 }
